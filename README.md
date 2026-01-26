@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 # 👋 Hi, I'm Anantkumar Saunshi  
 
@@ -75,3 +75,6 @@ I’m a results-driven **Data Analyst** with hands-on experience in data cleanin
 ---
 
 ⭐ *If you like my work, consider starring my repositories!*  
+<img width="450" height="195" alt="image" src="https://github.com/user-attachments/assets/6d0cea76-edd4-4f7b-8f4a-bfe606d54ed9" />
+<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/7b101993-4711-4386-8944-0eab0b3025fb" />
+
