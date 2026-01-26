@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Anant Saunshi  
+# 👋 Hi, I'm Anantkumar Saunshi  
 
 🎯 **Data Analyst | Business Analytics | Python | SQL | Power BI**
 
